@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "SqlConnectionString": "Data Source= DESKTOP-IHGFLP1\\SQLEXPRESS;Integrated Security=True;Database=EternaDb; Trusted_Connection=true;"
+  }
+}
